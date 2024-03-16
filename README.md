@@ -1,15 +1,15 @@
 # enerjisa-mobil-app
 Enerjisa Enerji A.Ş. my internship project
 
-![1710628551700](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/a0bb078b-8ced-4df7-a9ef-432c1d2c1410)
+![1710628551700](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/48dad4f7-bfde-4b36-a24a-d4b7a4a00f0f)
 
 # Enerjisa Customer Management App (Android)
 
 This Android application, developed during my internship at Enerjisa Enerji A.Ş.,  efficiently manages customer data and invoice details. Built with Kotlin in Android Studio, the app leverages APIs to retrieve JSON data and provides a user-friendly experience for accessing invoice information.
 
-![1710628551690](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/5f162414-ea07-40f5-9ddd-f59236c1183f)
+![1710628551690](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/da49821f-9a3b-4dfc-b68f-b7631b5cf094)
 
-![1710628551679](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/61fa5bf4-51d3-4f99-83ea-792c984bb86e)
+![1710628551679](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/6b615376-277d-4d61-a86a-773eaf9a622f)
 
 ## Key Features:
 
@@ -20,9 +20,9 @@ This Android application, developed during my internship at Enerjisa Enerji A.Ş
 - *Informative Pop-up Alerts:* Integrates pop-up alerts to display key information to the user.
 - *Modern UI Design:* Embraces modern UI technologies for an aesthetically pleasing and intuitive interface.
 
-![1710628551669](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/99aa9324-6b4e-465b-9a4d-98c7cf37ef60)
+![1710628551669](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/dddccb89-013c-4910-a52c-f1157928123d)
 
-![1710628551658](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/c567bf99-d286-479b-be38-03872c8d4ddc)
+![1710628551658](https://github.com/mitradeniz/enerjisa-mobil-app/assets/65504062/907bf390-737b-426b-a343-4ad567c00f02)
 
 ## Technical Skills Developed:
 
